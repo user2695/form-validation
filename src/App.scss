@@ -1,0 +1,50 @@
+$color_1: white;
+$background-color_1: #f6f6f6;
+$assetPath: 'path';
+
+.form {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 10%;
+}
+.form--heading {
+	display: flex;
+	justify-content: flex-start;
+	margin-bottom: 3px;
+}
+.form--label {
+	display: block;
+	padding: 0px;
+	margin: 1px;
+}
+.form--input {
+	padding: 2px;
+	margin: 4px 0px;
+	width: 80%;
+}
+.form--btn {
+	padding: 12px 30px;
+	border: none;
+	color: $color_1;
+	background: #33adff;
+	border-radius: 3px;
+	margin-bottom: 13px;
+}
+.app--text {
+	font-size: small;
+	position: absolute;
+	text-align: center;
+	bottom: 10%;
+	left: 19%;
+	right: 60%;
+	top: 65%;
+}
+.app--body {
+	// background-image: url(./Screenshot\ 2022-05-16\ 111138.png);
+	background-image: url(pic.png);
+	background-position: 10%;
+	background-repeat: no-repeat;
+	background-color: $background-color_1;
+	border-radius: 7px;
+	margin: 5px;
+}
