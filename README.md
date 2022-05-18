@@ -6,7 +6,7 @@
    
 <p> 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/user2695/e-commerce" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/user2695/form-validation?color=red" />
   <img alt="Forks" src="https://img.shields.io/github/forks/user2695/e-commerce" />
    <img alt="Stars" src="https://img.shields.io/github/stars/user2695/e-commerce" />  
 </p>
