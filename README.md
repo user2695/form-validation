@@ -1,4 +1,4 @@
-<h1 align="center">e-commerce</h1>
+<h1 align="center">form-validation</h1>
 
 <div align="center" >
    <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" /></span>&nbsp;&nbsp;
