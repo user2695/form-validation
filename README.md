@@ -33,9 +33,9 @@ npm install
 > javascript  
 > npm  
 > react  
-> scss
-> d3.js
-> HTML
+> scss  
+> d3.js  
+> HTML  
   
 ## Author
 
