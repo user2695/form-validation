@@ -18,7 +18,7 @@
 </p>
 
 ## Description
-This is an e-commerce app with full crud functionalities like create, read, update and delete. This project is built with javscript using nodejs for backend and ejs templating engine as a front end technology. Please feel free to use it.
+This is an assignment. In this i have created a signup page and after signing up ,the user will be redirected to a page where a bar chart will show up with randomised data. Please feel free to use it.
 
 ## Usage
 > If you want to use this project on your machine, clone it and then type the below command: 
